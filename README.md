@@ -36,26 +36,26 @@ Install the Python dependencies with the following command:
 bash
 pip install fastapi uvicorn beautifulsoup4 requests
 
-##Step 1: Clone the Repository
+## Step 1: Clone the Repository
 Clone this repository using Git:
 git clone https://github.com/yairTzach/webScraper.git
 
-##Step 2: Install Dependencies
+## Step 2: Install Dependencies
 Navigate to the project directory and install the necessary Node.js and Python dependencies.
 
 For Node.js dependencies:
 npm install
 
-##Step 3: Start the FastAPI Backend Server
+## Step 3: Start the FastAPI Backend Server
 Start the FastAPI server to handle the scraping API:
 
 
 uvicorn main:app --reload
-##Step 4: Start the Next.js Frontend
+## Step 4: Start the Next.js Frontend
 In another terminal, run the following command to start the Next.js frontend development server:
 
 npm run dev
-##Step 5: Access the Application
+## Step 5: Access the Application
 Once both the backend and frontend are running, you can access the application in your browser at:
 
 http://localhost:3000
