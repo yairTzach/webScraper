@@ -15,8 +15,8 @@ Web Scraper is an application built using FastAPI and Next.js, designed to retri
 ```plaintext
 webScraper/
 ├── pages/
-│   ├── index.js               # Main page for product search input
-│               # Results page for displaying product data
+│   ├── index.js               # Main page for product search input and Results page for displaying product data
+│              
 │
 ├── .next/                     # Next.js build directory
 ├── main.py                    # FastAPI backend for scraping
