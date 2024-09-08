@@ -60,9 +60,9 @@ Once both the backend and frontend are running, you can access the application i
 
 http://localhost:3000
 
-How the Application Works
-Product Search: Users input a product name on the main page.
-Backend Scraping: The frontend sends an API request to the FastAPI backend, which scrapes product data from e-commerce websites like BestBuy and Newegg.
-Data Retrieval: The scraped data is returned to the frontend and displayed in a table format.
-Results Display: The results include the site name, product title, and price.
+## How the Application Works
+1. Product Search: Users input a product name on the main page.
+2. Backend Scraping: The frontend sends an API request to the FastAPI backend, which scrapes product data from e-commerce websites like BestBuy and Newegg.
+3. Data Retrieval: The scraped data is returned to the frontend and displayed in a table format.
+4. Results Display: The results include the site name, product title, and price.
 
