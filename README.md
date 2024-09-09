@@ -43,7 +43,7 @@ git clone https://github.com/yairTzach/webScraper.git
 ## Step 2: Install Dependencies
 Navigate to the project directory and install the necessary Node.js and Python dependencies.
 
-For Node.js dependencies:
+# For Node.js dependencies:
 npm install
 npm run build
 
