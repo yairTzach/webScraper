@@ -45,6 +45,7 @@ Navigate to the project directory and install the necessary Node.js and Python d
 
 For Node.js dependencies:
 npm install
+npm run build
 
 ## Step 3: Start the FastAPI Backend Server
 Start the FastAPI server to handle the scraping API:
